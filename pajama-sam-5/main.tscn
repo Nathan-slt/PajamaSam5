@@ -1,0 +1,21 @@
+[gd_scene format=3 uid="uid://dwtla5aopbkrt"]
+
+[node name="Node2D" type="Node2D" unique_id=1584281341]
+
+[node name="ColorRect" type="ColorRect" parent="." unique_id=326359326]
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_right = 640.0
+offset_bottom = 480.0
+grow_horizontal = 2
+grow_vertical = 2
+color = Color(0.09411765, 0.14901961, 0.2901961, 1)
+
+[node name="Label" type="Label" parent="." unique_id=1953955265]
+offset_left = 200.0
+offset_top = 170.0
+offset_right = 426.0
+offset_bottom = 215.0
+theme_override_font_sizes/font_size = 32
+text = "PAJAMA SAM 5"
